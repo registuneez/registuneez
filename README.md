@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @regis
 - 👀 I’m interested in web developer 
-📚 My Title: web developer 🧰
-📚My Location: East Africa 🌍
-🤝 I’m available for freelancing.💸💰
-✨ Creating bugs since 2024🙄
-📚 I'm currently honing my skills 🍧
-🎯 Goals: To be recognized as Hacker for humanity 👌🏼
-📫 How to reach me, Send me Email📧
-🔗 Know about my experiences visit my account 👨‍💻
+-📚 My Title: web developer 🧰
+-📚My Location: East Africa 🌍
+-🤝 I’m available for freelancing.💸💰
+-✨ Creating bugs since 2024🙄
+-📚 I'm currently honing my skills 🍧
+-🎯 Goals: To be recognized as Hacker for humanity 👌🏼
+-📫 How to reach me, Send me Email📧
+-🔗 Know about my experiences visit my account 👨‍💻
 
 🎲 Fun fact: I'm funny 🫠
 
@@ -33,12 +33,14 @@ is full of code now, you should have seen it before I cleaned it up! 😋
 
 
 
-Let's join forces like Batman and Robin, or like peanut
-butter and jelly. We'll make an unstoppable duo.
+✨✨Let's join forces like Batman and Robin, or like peanut
+butter and jelly. We'll make an unstoppable duo.✨✨✨
 
 
 Drop me a message! 💌
+🔗 masengeshoregis7@gmail.com 
 
+🔗https://www.instagram.com/rtp.rw?igsh=MTNyNnF0Z3QyZ3N5NA==
 <!---
 registuneez/registuneez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
