@@ -1,12 +1,21 @@
 - 👋 Hi, I’m @regis
+
 - 👀 I’m interested in web developer 
+
 -📚 My Title: web developer 🧰
+
 -📚My Location: East Africa 🌍
+
 -🤝 I’m available for freelancing.💸💰
+
 -✨ Creating bugs since 2024🙄
+
 -📚 I'm currently honing my skills 🍧
+
 -🎯 Goals: To be recognized as Hacker for humanity 👌🏼
+
 -📫 How to reach me, Send me Email📧
+
 -🔗 Know about my experiences visit my account 👨‍💻
 
 🎲 Fun fact: I'm funny 🫠
